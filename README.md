@@ -2,6 +2,9 @@
 ## Introduction to Project
 Conventional measuring tapes usually require 2 people to measure a distance from 'A' to 'B'. In scenarios like measuring a room's vertical height, dragging the tape from ground to the ceiling is impractical and inefficient. In such scenarios, a laser-based measuring tape simplifies such an issue with accurate and efficient readings of distance. 
 
+- Code exists in "laserTapewswitch"
+- Connections are shown in "Setup"
+
 ## Concept: Time of Flight
 The VL53L0X contains a laser transmitter and a receiver. The transmitted laser beam, reflects off a surface and hits the receiver. The time of flight for this duration is calculated by the sensor, to obtain the distance reading. 
 
