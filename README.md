@@ -15,3 +15,5 @@ The VL53L0X contains a laser transmitter and a receiver. The transmitted laser b
 
 ## Current Limitations
 The VL53L0X sensor used for this particular project, has a distance range of 2m. This project was performed for educational purposes, but the concept applied can be extended to larger applications of laser tapes. 
+
+## Demonstration
