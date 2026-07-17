@@ -4,6 +4,7 @@ Conventional measuring tapes usually require 2 people to measure a distance from
 
 - Code exists in "laserTapewswitch"
 - Connections are shown in "Setup"
+- The components for the 3D printed enclosure is available in "Frame"
 
 ## Concept: Time of Flight
 The VL53L0X contains a laser transmitter and a receiver. The transmitted laser beam, reflects off a surface and hits the receiver. The time of flight for this duration is calculated by the sensor, to obtain the distance reading. 
