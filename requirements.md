@@ -1,0 +1,8 @@
+- Arduino Nano CH340 Chip Board 
+- VL53L0X Time-of-Flight Laser Distance Sensor	
+- 128x32 I2C Serial OLED Display Module 0.91"
+- 6A 250V 3 Pin SPDT ON-OFF Rocker Switch
+- 3.7V Rechargeable LiPo Battery
+- TP4056 Battery Charger C Type Module
+- Jumper wires
+- Breadboard
